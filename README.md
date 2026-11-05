@@ -6,9 +6,9 @@ SCADA & MEP engineer building evidence-first CAD/BIM tools and AI-assisted workf
 ### 🛠 工程 CAD / BIM 工具
 | 專案 | 說明 |
 |---|---|
-| [MEP_tray](https://github.com/rita112025-cpu/MEP_tray) | 橋架自動路由：3D 正交路徑、避障、規範檢查，匯出 DXF/DWG 與 Revit |
+| [MEP_tray](https://github.com/rita112025-cpu/MEP_tray) | 橋架自動路由：3D 正交路徑、避障、規範檢查（規範值未驗證），匯出 DXF/DWG 與 Revit |
 | [Engineering_Route_Inspector](https://github.com/rita112025-cpu/Engineering_Route_Inspector) | 本機檢查 DXF 管線路徑是否符合規範規則 |
-| [dwg_batch_tool](https://github.com/rita112025-cpu/dwg_batch_tool) | DWG/DXF 批次分析，含真實圖面 regression 測試 |
+| [dwg_batch_tool](https://github.com/rita112025-cpu/dwg_batch_tool) | DWG/DXF 批次分析，含真實圖面 regression 測試；v1.6.0 加入 BOQ PDF 逐列解析（真實 BOQ 未驗證；Production Approval：NOT APPROVED） |
 | [cable-tray-router](https://github.com/rita112025-cpu/cable-tray-router) | AutoLISP 電纜架 routing workflow |
 | [mep-boq-toolkit](https://github.com/rita112025-cpu/mep-boq-toolkit) | 機電標單清整、預算覆核與 SAP 對帳 |
 
